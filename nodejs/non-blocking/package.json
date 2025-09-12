@@ -1,0 +1,19 @@
+{
+  "name": "non-blocking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.15.1",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0"
+  }
+}
